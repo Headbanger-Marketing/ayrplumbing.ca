@@ -1,2 +1,25 @@
 # Ayr Plumbing
-HVAC services in Ontario.
+
+> Ayr Plumbing is a local HVAC company serving Ayr, Waterloo, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 632-8174  |  Email: contact@ayrplumbing.ca  |  Website: https://ayrplumbing.ca
+
+## Key pages
+
+- [Home](https://ayrplumbing.ca/): Ayr Plumbing homepage with service overview and FAQ
+- [About](https://ayrplumbing.ca/about/): About the company and service area
+- [Contact](https://ayrplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://ayrplumbing.ca/services/water-heaters/): Water Heaters in Ayr, Ontario
+- [Drain Cleaning](https://ayrplumbing.ca/services/drain-cleaning/): Drain Cleaning in Ayr, Ontario
+- [Repiping](https://ayrplumbing.ca/services/repiping/): Repiping in Ayr, Ontario
+- [Fixtures & Toilets](https://ayrplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Ayr, Ontario
+- [Leak Detection & Repair](https://ayrplumbing.ca/services/leak-detection/): Leak Detection & Repair in Ayr, Ontario
+- [Sump Pumps & Backwater](https://ayrplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Ayr, Ontario
+- [Water Softeners & Filtration](https://ayrplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Ayr, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Ayr are answered on the homepage.
